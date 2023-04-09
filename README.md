@@ -1,2 +1,2 @@
 # Cart_Pole
-Implementing Cart Pole problem with Q algorithm adding a novelty of randomizing the initial velocities of the cart
+Solving the Cart Pole problem with Q-learning algorithm adding a novelty of randomizing the initial velocities of the cart
